@@ -1,0 +1,16 @@
+{
+  "name": "email-css-inliner",
+  "title": "a front-end build tool for email templates, using gulp.",
+  "url": "http://github.com/v801/email-css-inliner",
+  "author": "v801",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/v801/email-css-inliner.git"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "juice": "git://github.com/jgannonjr/juice.git",
+    "gulp-inline-css": "*",
+    "gulp-jshint": "*"
+  }
+}
